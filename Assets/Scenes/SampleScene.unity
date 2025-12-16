@@ -1277,7 +1277,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   levelData: {fileID: 11400000, guid: f661d22865e5d744d9050fe4f575483a, type: 2}
-  obstaclePrefab: {fileID: 6338152755057684348, guid: 9ac770a5d829f564e8173fd8b3bd0cb4, type: 3}
+  obstaclePrefab: {fileID: 5031531554355215403, guid: 76262700a12c6cc46bf0d235ab142114, type: 3}
 --- !u!1 &1676965289
 GameObject:
   m_ObjectHideFlags: 0

@@ -29,7 +29,7 @@ public class ObstacleManager : MonoBehaviour
                 if (levelData.obstacles[index] == true) 
                 {
                     //calculate the position of the tile
-                    Vector3 obstaclePos = new Vector3(x, 1.0f, z);
+                    Vector3 obstaclePos = new Vector3(x, 0.52f, z);
 
                     //spawing the sphere
                     Instantiate(obstaclePrefab, obstaclePos, Quaternion.identity);

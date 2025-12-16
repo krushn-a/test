@@ -76,7 +76,7 @@ public class TileGenerator : MonoBehaviour
                 {
                     rend.material = lightMaterial;
                 }
-                else 
+                else
                 {
                     rend.material = darkMaterial;
                 }
